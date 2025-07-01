@@ -4,12 +4,12 @@ Let's simplify our relationship with social media by going from duplex to simple
 
 This tool allows broadcasting a message on Twitter, Bluesky, Mastodon and LinkedIn with a single command.
 
-Depends on `t`, `toot`, `bksy` and `linkedin-cli`. It's on you to procure those clients and perform the initial authentication process.
+Depends on `t`, `toot`, `bsky` and `linkedin-cli`. It's on you to procure those clients and perform the initial authentication process.
 
 The shell script in this repository is very simple, so you can easily comment out or add new clients based on your needs.
 
 ## Setup
-- follow steps here: 
+- follow steps here: https://github.com/mattn/bsky to setup bluesky posting
 - follow steps here: https://github.com/sferik/t-ruby to setup twitter posting
 - follow steps here: https://linkedin-cli.tigillo.com/ to setup linkedin posting
 
