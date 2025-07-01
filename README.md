@@ -8,6 +8,11 @@ Depends on `t`, `toot`, `bksy` and `linkedin-cli`. It's on you to procure those 
 
 The shell script in this repository is very simple, so you can easily comment out or add new clients based on your needs.
 
+## Setup
+- follow steps here: 
+- follow steps here: https://github.com/sferik/t-ruby to setup twitter posting
+- follow steps here: https://linkedin-cli.tigillo.com/ to setup linkedin posting
+
 ## Usage
 - Follow the login procedure on each of the clients.
 - Run `post.sh`, it will open your default editor (like `git commit` does). 
